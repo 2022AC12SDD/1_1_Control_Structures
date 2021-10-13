@@ -1,3 +1,6 @@
+# In this file add al your pseudocode for each function.
+# Make sure you comply with the syntax in the Course Specifications.
+
 BEGIN check_guess(guess, target)
     """Checks a guess to see if it is the same as the target.
 

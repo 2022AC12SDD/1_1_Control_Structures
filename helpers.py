@@ -1,5 +1,6 @@
 """helpers.py has some amazing functions etc."""
 
+## this first one is just an example
 def ultimate_answer(question):
     """Provides an answer to the ultimate question.
 
