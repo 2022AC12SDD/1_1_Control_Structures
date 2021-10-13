@@ -1,6 +1,6 @@
 # Aurora_SDD 1.1.Control Structures
 
-In github create a simple kanban style project for this repo
+In github create a simple kanban style project for this repo (this may have come across with the template)
 
 For each of the sub-programs (functions) in helpers.py
 - create an issue describing the task (use the docstring of the function as a guide)
